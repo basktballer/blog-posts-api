@@ -21,3 +21,5 @@ Navigate to localhost:3000/api/ping to validate site is working
 ### Description
 
 The Blog Posts API was created using Ruby on Rails API scaffold. The API allows users to request for blog posts by tags and sort by likes, reads, popularity and id in both ascending and descending order. The following is an example request: "localhost:3000/api/posts?tags=history,tech&sortBy=likes&direction=desc".
+
+Note this exercise was a coding assessment part of an interview process and the data has been omitted as requested by the interviewer. Please contact me for further information.
